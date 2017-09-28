@@ -1,0 +1,2537 @@
+dancing queen
+{
+  "tracks": {
+    "href": "https://api.spotify.com/v1/search?query=dancing+queen&type=track&offset=0&limit=20",
+    "items": [
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
+              "type": "artist",
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+            }
+          ],
+          "available_markets": [
+            "CA",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1M4anG49aEs4YimBdj96Oy"
+          },
+          "href": "https://api.spotify.com/v1/albums/1M4anG49aEs4YimBdj96Oy",
+          "id": "1M4anG49aEs4YimBdj96Oy",
+          "images": [
+            {
+              "height": 575,
+              "url": "https://i.scdn.co/image/de30d4da9efd1b491493ed288e09b6f935ff10ab",
+              "width": 640
+            },
+            {
+              "height": 270,
+              "url": "https://i.scdn.co/image/b8e2ae77e9379d27e33f39d2c2643cb52de1b8ac",
+              "width": 300
+            },
+            {
+              "height": 57,
+              "url": "https://i.scdn.co/image/a346fc150b229c7818029110858b3d915cf9400e",
+              "width": 63
+            }
+          ],
+          "name": "Arrival",
+          "type": "album",
+          "uri": "spotify:album:1M4anG49aEs4YimBdj96Oy"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "type": "artist",
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 230693,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEAYD7601020"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4NtUY5IGzHCaqfZemmAu56"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4NtUY5IGzHCaqfZemmAu56",
+        "id": "4NtUY5IGzHCaqfZemmAu56",
+        "name": "Dancing Queen",
+        "popularity": 70,
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4NtUY5IGzHCaqfZemmAu56"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+              },
+              "href": "https://api.spotify.com/v1/artists/1IFAU4mznUcfPVP9z2c24N",
+              "id": "1IFAU4mznUcfPVP9z2c24N",
+              "name": "Daecolm",
+              "type": "artist",
+              "uri": "spotify:artist:1IFAU4mznUcfPVP9z2c24N"
+            }
+          ],
+          "available_markets": [
+            "CA",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4PBaESrwkFLsp46iHR7igR"
+          },
+          "href": "https://api.spotify.com/v1/albums/4PBaESrwkFLsp46iHR7igR",
+          "id": "4PBaESrwkFLsp46iHR7igR",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/545b3822c631b6eb5542b5b76eb5dd67f088732f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/d3d2b1542f7f40f2ca6644c0a03f295e3c8d24e2",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/4ff08e326b4b14fa55433c657aa4ea22c43831ff",
+              "width": 64
+            }
+          ],
+          "name": "Dancing Queen",
+          "type": "album",
+          "uri": "spotify:album:4PBaESrwkFLsp46iHR7igR"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+            },
+            "href": "https://api.spotify.com/v1/artists/1IFAU4mznUcfPVP9z2c24N",
+            "id": "1IFAU4mznUcfPVP9z2c24N",
+            "name": "Daecolm",
+            "type": "artist",
+            "uri": "spotify:artist:1IFAU4mznUcfPVP9z2c24N"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 197277,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBUM71703225"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7dIR2ZUuZ3Y3B8rjAusujc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7dIR2ZUuZ3Y3B8rjAusujc",
+        "id": "7dIR2ZUuZ3Y3B8rjAusujc",
+        "name": "Dancing Queen",
+        "popularity": 55,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7dIR2ZUuZ3Y3B8rjAusujc"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
+              "type": "artist",
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+            }
+          ],
+          "available_markets": [
+            "CA",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2cKZfaz7GiGtZEeQNj1RyR"
+          },
+          "href": "https://api.spotify.com/v1/albums/2cKZfaz7GiGtZEeQNj1RyR",
+          "id": "2cKZfaz7GiGtZEeQNj1RyR",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/4db90273419a26fe4b6b998f5cfc359a19d3c817",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/0336d17e26bdd21ad334815ba95d579d5b68a0ce",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/4e31df94e01d6ec001044ea44a1565bdf7498936",
+              "width": 64
+            }
+          ],
+          "name": "ABBA Gold",
+          "type": "album",
+          "uri": "spotify:album:2cKZfaz7GiGtZEeQNj1RyR"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "type": "artist",
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 231093,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEAYD7601020"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ATDkfqprlNNe9mYWodgdc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2ATDkfqprlNNe9mYWodgdc",
+        "id": "2ATDkfqprlNNe9mYWodgdc",
+        "name": "Dancing Queen",
+        "popularity": 57,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2ATDkfqprlNNe9mYWodgdc"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
+              "type": "artist",
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+            }
+          ],
+          "available_markets": [
+            "CA",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/34lTW6LuORpuIiYfqsetuq"
+          },
+          "href": "https://api.spotify.com/v1/albums/34lTW6LuORpuIiYfqsetuq",
+          "id": "34lTW6LuORpuIiYfqsetuq",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/07256d0f3b1b6dca7914617010bb353ae7ad8569",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/a5db6a30ced13ec2f320e30902a808b6fcd950a1",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/c015e3a749c870bbd66f56446c9553d18240b4fd",
+              "width": 64
+            }
+          ],
+          "name": "The Essential Collection",
+          "type": "album",
+          "uri": "spotify:album:34lTW6LuORpuIiYfqsetuq"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "type": "artist",
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 233440,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEAYD7601020"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1rMfDvE2C8ne8UZj847rKM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1rMfDvE2C8ne8UZj847rKM",
+        "id": "1rMfDvE2C8ne8UZj847rKM",
+        "name": "Dancing Queen",
+        "popularity": 42,
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:1rMfDvE2C8ne8UZj847rKM"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+              },
+              "href": "https://api.spotify.com/v1/artists/0Sadg1vgvaPqGTOjxu0N6c",
+              "id": "0Sadg1vgvaPqGTOjxu0N6c",
+              "name": "Girls' Generation",
+              "type": "artist",
+              "uri": "spotify:artist:0Sadg1vgvaPqGTOjxu0N6c"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3qpbuQ6XTxYfGx4fQZpZcA"
+          },
+          "href": "https://api.spotify.com/v1/albums/3qpbuQ6XTxYfGx4fQZpZcA",
+          "id": "3qpbuQ6XTxYfGx4fQZpZcA",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/580cd12fda29cb6d274d56aab138a69d4b1c533b",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/8d7de4ece10e11f319c74dfa6f8378fa5937746f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/01bb6a5f59d53f0c9d23a6979fb2632f0e687d4a",
+              "width": 64
+            }
+          ],
+          "name": "The 4th Album 'I GOT A BOY'",
+          "type": "album",
+          "uri": "spotify:album:3qpbuQ6XTxYfGx4fQZpZcA"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Sadg1vgvaPqGTOjxu0N6c",
+            "id": "0Sadg1vgvaPqGTOjxu0N6c",
+            "name": "Girls' Generation",
+            "type": "artist",
+            "uri": "spotify:artist:0Sadg1vgvaPqGTOjxu0N6c"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 215279,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "kra301200551"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/45DYPy0a4Ia1DQzhyLk2aS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/45DYPy0a4Ia1DQzhyLk2aS",
+        "id": "45DYPy0a4Ia1DQzhyLk2aS",
+        "name": "Dancing Queen",
+        "popularity": 45,
+        "preview_url": "https://p.scdn.co/mp3-preview/a87ac4e8ea9d880241ee02b9d95ba12125c80b5c?cid=7c3225dc6b6d45a0be06ab9eb0db94a1",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:45DYPy0a4Ia1DQzhyLk2aS"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
+              },
+              "href": "https://api.spotify.com/v1/artists/72T7KgrFiMTgXRWxfuDn5o",
+              "id": "72T7KgrFiMTgXRWxfuDn5o",
+              "name": "Erato",
+              "type": "artist",
+              "uri": "spotify:artist:72T7KgrFiMTgXRWxfuDn5o"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/520470BMKQweXPOcvIRv20"
+          },
+          "href": "https://api.spotify.com/v1/albums/520470BMKQweXPOcvIRv20",
+          "id": "520470BMKQweXPOcvIRv20",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://i.scdn.co/image/689191e5efc3687a087f291cfb0283ff6ca552d4",
+              "width": 600
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/4187a8efecc2946805b4b9d1e3011eb03cb80f06",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/15031fa41c508006685859b50353829efc9dd236",
+              "width": 64
+            }
+          ],
+          "name": "Dancing Queen",
+          "type": "album",
+          "uri": "spotify:album:520470BMKQweXPOcvIRv20"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
+            },
+            "href": "https://api.spotify.com/v1/artists/72T7KgrFiMTgXRWxfuDn5o",
+            "id": "72T7KgrFiMTgXRWxfuDn5o",
+            "name": "Erato",
+            "type": "artist",
+            "uri": "spotify:artist:72T7KgrFiMTgXRWxfuDn5o"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 194323,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEVJH1600601"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EfG2ksEzOhZ8olWDi36rd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7EfG2ksEzOhZ8olWDi36rd",
+        "id": "7EfG2ksEzOhZ8olWDi36rd",
+        "name": "Dancing Queen",
+        "popularity": 52,
+        "preview_url": "https://p.scdn.co/mp3-preview/d64263273afdd407774adb9abfeede356d48f7bc?cid=7c3225dc6b6d45a0be06ab9eb0db94a1",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7EfG2ksEzOhZ8olWDi36rd"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+              "id": "0LyfQWJT6nXafLPZqxe9Of",
+              "name": "Various Artists",
+              "type": "artist",
+              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+          ],
+          "available_markets": [
+            "CA",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5i8kfdER1rHnhzYcQc5KXX"
+          },
+          "href": "https://api.spotify.com/v1/albums/5i8kfdER1rHnhzYcQc5KXX",
+          "id": "5i8kfdER1rHnhzYcQc5KXX",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/3c4fc90b670cd8a56bb8212108c4c01e497d5032",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/6de771982401f526a945fad6b4ef59ad4f68b879",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/341adc86385fb120c7af79902a80cdf52fe365fc",
+              "width": 64
+            }
+          ],
+          "name": "70's Pop Number 1's",
+          "type": "album",
+          "uri": "spotify:album:5i8kfdER1rHnhzYcQc5KXX"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "type": "artist",
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 230653,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEAYD7601020"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/01topnfXJFjW4iQMVAXAo8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/01topnfXJFjW4iQMVAXAo8",
+        "id": "01topnfXJFjW4iQMVAXAo8",
+        "name": "Dancing Queen",
+        "popularity": 36,
+        "preview_url": null,
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:01topnfXJFjW4iQMVAXAo8"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0GSuGuz8CIQpRZdig9k9Mt"
+              },
+              "href": "https://api.spotify.com/v1/artists/0GSuGuz8CIQpRZdig9k9Mt",
+              "id": "0GSuGuz8CIQpRZdig9k9Mt",
+              "name": "Cast Of Mamma Mia The Movie",
+              "type": "artist",
+              "uri": "spotify:artist:0GSuGuz8CIQpRZdig9k9Mt"
+            }
+          ],
+          "available_markets": [
+            "CA",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6QtnCAFmqOwR75jOOmU7k9"
+          },
+          "href": "https://api.spotify.com/v1/albums/6QtnCAFmqOwR75jOOmU7k9",
+          "id": "6QtnCAFmqOwR75jOOmU7k9",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/a1b7b467e6bc3cf947c56e5232543f8e23b628ce",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/f508aa02dfa4adbef789ca9740e4933d1220f945",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/16ea634ebef2d3f7c28d73839a3a74c591fa8441",
+              "width": 64
+            }
+          ],
+          "name": "Mamma Mia! The Movie Soundtrack",
+          "type": "album",
+          "uri": "spotify:album:6QtnCAFmqOwR75jOOmU7k9"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2HB65P72dFRiOKvbLLcil2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2HB65P72dFRiOKvbLLcil2",
+            "id": "2HB65P72dFRiOKvbLLcil2",
+            "name": "Meryl Streep",
+            "type": "artist",
+            "uri": "spotify:artist:2HB65P72dFRiOKvbLLcil2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Yi0y4bNdc04Oxk9l6nwXa"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Yi0y4bNdc04Oxk9l6nwXa",
+            "id": "5Yi0y4bNdc04Oxk9l6nwXa",
+            "name": "Julie Walters",
+            "type": "artist",
+            "uri": "spotify:artist:5Yi0y4bNdc04Oxk9l6nwXa"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1L4nOFaQKejFy75REi9BKh"
+            },
+            "href": "https://api.spotify.com/v1/artists/1L4nOFaQKejFy75REi9BKh",
+            "id": "1L4nOFaQKejFy75REi9BKh",
+            "name": "Christine Baranski",
+            "type": "artist",
+            "uri": "spotify:artist:1L4nOFaQKejFy75REi9BKh"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 244226,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBUM70809213"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/33trZRsRCHDPemnACBcLJJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/33trZRsRCHDPemnACBcLJJ",
+        "id": "33trZRsRCHDPemnACBcLJJ",
+        "name": "Dancing Queen - From 'Mamma Mia!'",
+        "popularity": 54,
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:33trZRsRCHDPemnACBcLJJ"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+              },
+              "href": "https://api.spotify.com/v1/artists/0SCbttzoZTnLFebDYmAWCm",
+              "id": "0SCbttzoZTnLFebDYmAWCm",
+              "name": "Glee Cast",
+              "type": "artist",
+              "uri": "spotify:artist:0SCbttzoZTnLFebDYmAWCm"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "DE",
+            "DO",
+            "EC",
+            "FR",
+            "GB",
+            "GT",
+            "HK",
+            "HN",
+            "ID",
+            "IE",
+            "IT",
+            "JP",
+            "LI",
+            "LU",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SV",
+            "TH",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5nvqVolAZnL9C1i5j6qDKS"
+          },
+          "href": "https://api.spotify.com/v1/albums/5nvqVolAZnL9C1i5j6qDKS",
+          "id": "5nvqVolAZnL9C1i5j6qDKS",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/5aefad170b5207e9dd2fa667d430b637d3c13f27",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/5f1d670d5d00142e347f550183903a2bbaa21d86",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/101afd605b244ae64e7ead4332217ba7d6ea4982",
+              "width": 64
+            }
+          ],
+          "name": "Glee: The Music, Volume 6",
+          "type": "album",
+          "uri": "spotify:album:5nvqVolAZnL9C1i5j6qDKS"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+            },
+            "href": "https://api.spotify.com/v1/artists/0SCbttzoZTnLFebDYmAWCm",
+            "id": "0SCbttzoZTnLFebDYmAWCm",
+            "name": "Glee Cast",
+            "type": "artist",
+            "uri": "spotify:artist:0SCbttzoZTnLFebDYmAWCm"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "DE",
+          "DO",
+          "EC",
+          "FR",
+          "GB",
+          "GT",
+          "HK",
+          "HN",
+          "ID",
+          "IE",
+          "IT",
+          "JP",
+          "LI",
+          "LU",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SV",
+          "TH",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 219480,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USQX91100380"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0WbeozTUWSSRhtghJL8J1B"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0WbeozTUWSSRhtghJL8J1B",
+        "id": "0WbeozTUWSSRhtghJL8J1B",
+        "name": "Dancing Queen (Glee Cast Version)",
+        "popularity": 46,
+        "preview_url": "https://p.scdn.co/mp3-preview/f08c8a6cd7f4c5ba3d3833a1ebfa4e7fa6292819?cid=7c3225dc6b6d45a0be06ab9eb0db94a1",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:0WbeozTUWSSRhtghJL8J1B"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+              },
+              "href": "https://api.spotify.com/v1/artists/0SCbttzoZTnLFebDYmAWCm",
+              "id": "0SCbttzoZTnLFebDYmAWCm",
+              "name": "Glee Cast",
+              "type": "artist",
+              "uri": "spotify:artist:0SCbttzoZTnLFebDYmAWCm"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AT",
+            "AU",
+            "BG",
+            "CA",
+            "CH",
+            "DE",
+            "ES",
+            "FR",
+            "GB",
+            "IE",
+            "JP",
+            "LI",
+            "MC",
+            "NL",
+            "NZ",
+            "PH",
+            "PL",
+            "SG",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/356kpipTiz5kcCogPbQXZU"
+          },
+          "href": "https://api.spotify.com/v1/albums/356kpipTiz5kcCogPbQXZU",
+          "id": "356kpipTiz5kcCogPbQXZU",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/58d4cff1dae5bf802a19b07f5e6b6d6b2f38c90a",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/a529074c74c3ac7b8ae0a0cc638f0c99c3455bbe",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/3fc9cd2e96f6e4b488fbcc1a1c0683c4f8c9313c",
+              "width": 64
+            }
+          ],
+          "name": "Dancing Queen (Glee Cast Version)",
+          "type": "album",
+          "uri": "spotify:album:356kpipTiz5kcCogPbQXZU"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+            },
+            "href": "https://api.spotify.com/v1/artists/0SCbttzoZTnLFebDYmAWCm",
+            "id": "0SCbttzoZTnLFebDYmAWCm",
+            "name": "Glee Cast",
+            "type": "artist",
+            "uri": "spotify:artist:0SCbttzoZTnLFebDYmAWCm"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AT",
+          "AU",
+          "BG",
+          "CA",
+          "CH",
+          "DE",
+          "ES",
+          "FR",
+          "GB",
+          "IE",
+          "JP",
+          "LI",
+          "MC",
+          "NL",
+          "NZ",
+          "PH",
+          "PL",
+          "SG",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 219480,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USQX91100380"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5cF01BGXNg6nPfNgWrJv5x"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5cF01BGXNg6nPfNgWrJv5x",
+        "id": "5cF01BGXNg6nPfNgWrJv5x",
+        "name": "Dancing Queen (Glee Cast Version)",
+        "popularity": 32,
+        "preview_url": "https://p.scdn.co/mp3-preview/f08c8a6cd7f4c5ba3d3833a1ebfa4e7fa6292819?cid=7c3225dc6b6d45a0be06ab9eb0db94a1",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5cF01BGXNg6nPfNgWrJv5x"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
+              "type": "artist",
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+            }
+          ],
+          "available_markets": [
+            "CA",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5Bczj3JzU5Ye8Z35tW1R5d"
+          },
+          "href": "https://api.spotify.com/v1/albums/5Bczj3JzU5Ye8Z35tW1R5d",
+          "id": "5Bczj3JzU5Ye8Z35tW1R5d",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/95b09dd45af7cad562026efc796161ea6eb0dbcb",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/6c6f4802556919c6048c2c9bcb5f58266db7b777",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/2206f40974a16ce6a4b87b0224358fe607578360",
+              "width": 64
+            }
+          ],
+          "name": "The Albums",
+          "type": "album",
+          "uri": "spotify:album:5Bczj3JzU5Ye8Z35tW1R5d"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "type": "artist",
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 4,
+        "duration_ms": 233000,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEAYD7601020"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7efXqi3qE5CPlx0N41o1Vm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7efXqi3qE5CPlx0N41o1Vm",
+        "id": "7efXqi3qE5CPlx0N41o1Vm",
+        "name": "Dancing Queen",
+        "popularity": 27,
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7efXqi3qE5CPlx0N41o1Vm"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
+              "type": "artist",
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+            }
+          ],
+          "available_markets": [
+            "CA",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
+          },
+          "href": "https://api.spotify.com/v1/albums/1mc8M9eR9ZIBxqWA2CA4Wo",
+          "id": "1mc8M9eR9ZIBxqWA2CA4Wo",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ed072730188f91b5d9cf222a57c27645eae25676",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/f831fd7fdb8a9498efdd7d02c39f7655d45c45a4",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/bec91ea23fd7281fe8f00d68920ac2121d8a2992",
+              "width": 64
+            }
+          ],
+          "name": "Live At Wembley Arena",
+          "type": "album",
+          "uri": "spotify:album:1mc8M9eR9ZIBxqWA2CA4Wo"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "type": "artist",
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 2,
+        "duration_ms": 352013,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEUM71400841"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7uCt8IA0PnfsEoTMk7By1Q"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7uCt8IA0PnfsEoTMk7By1Q",
+        "id": "7uCt8IA0PnfsEoTMk7By1Q",
+        "name": "Dancing Queen - Live",
+        "popularity": 28,
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:7uCt8IA0PnfsEoTMk7By1Q"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+              "id": "0LyfQWJT6nXafLPZqxe9Of",
+              "name": "Various Artists",
+              "type": "artist",
+              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+          ],
+          "available_markets": [
+            "CA",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7Aannm8JZh8ZEYsVDLJrPS"
+          },
+          "href": "https://api.spotify.com/v1/albums/7Aannm8JZh8ZEYsVDLJrPS",
+          "id": "7Aannm8JZh8ZEYsVDLJrPS",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/fb60f724056c152581e09b3ea8eb46529df94588",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ad77fa078812d426bd45ccc6da982803b706fbd5",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/d16e080d543522b3e9c2bc1c8d95e45995cca659",
+              "width": 64
+            }
+          ],
+          "name": "70s Mixtape",
+          "type": "album",
+          "uri": "spotify:album:7Aannm8JZh8ZEYsVDLJrPS"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "type": "artist",
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 230302,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEAYD7601020"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5LL6gbsnedrVaLqnueF4Xf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5LL6gbsnedrVaLqnueF4Xf",
+        "id": "5LL6gbsnedrVaLqnueF4Xf",
+        "name": "Dancing Queen",
+        "popularity": 26,
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5LL6gbsnedrVaLqnueF4Xf"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6"
+              },
+              "href": "https://api.spotify.com/v1/artists/0h885xmyK9xHfhyXQr37L6",
+              "id": "0h885xmyK9xHfhyXQr37L6",
+              "name": "Richard Clayderman",
+              "type": "artist",
+              "uri": "spotify:artist:0h885xmyK9xHfhyXQr37L6"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0vcrM2zk9wV4ruW8kfTlS3"
+          },
+          "href": "https://api.spotify.com/v1/albums/0vcrM2zk9wV4ruW8kfTlS3",
+          "id": "0vcrM2zk9wV4ruW8kfTlS3",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/244cb240342096512e584b3c8fd063fb545f5cf9",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/d0cf1a5e1afb972ed4be7da05cd600227ed0d27c",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/b309ee020f94c1bb94bff9cc965f365d668a789d",
+              "width": 64
+            }
+          ],
+          "name": "The ABBA Collection",
+          "type": "album",
+          "uri": "spotify:album:0vcrM2zk9wV4ruW8kfTlS3"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6"
+            },
+            "href": "https://api.spotify.com/v1/artists/0h885xmyK9xHfhyXQr37L6",
+            "id": "0h885xmyK9xHfhyXQr37L6",
+            "name": "Richard Clayderman",
+            "type": "artist",
+            "uri": "spotify:artist:0h885xmyK9xHfhyXQr37L6"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 226160,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "FR08F9300190"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1EDkrKnUHv3kJpQCnoQwz9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1EDkrKnUHv3kJpQCnoQwz9",
+        "id": "1EDkrKnUHv3kJpQCnoQwz9",
+        "name": "Dancing Queen",
+        "popularity": 36,
+        "preview_url": "https://p.scdn.co/mp3-preview/45a67fac934693690b7aea5229bc1af01bb9d625?cid=7c3225dc6b6d45a0be06ab9eb0db94a1",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1EDkrKnUHv3kJpQCnoQwz9"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/56ecKpjIKKUYO0sPAE7JtV"
+              },
+              "href": "https://api.spotify.com/v1/artists/56ecKpjIKKUYO0sPAE7JtV",
+              "id": "56ecKpjIKKUYO0sPAE7JtV",
+              "name": "Eldissa",
+              "type": "artist",
+              "uri": "spotify:artist:56ecKpjIKKUYO0sPAE7JtV"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3SET4xmpjvV4aGcoz9Ruc4"
+          },
+          "href": "https://api.spotify.com/v1/albums/3SET4xmpjvV4aGcoz9Ruc4",
+          "id": "3SET4xmpjvV4aGcoz9Ruc4",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/afb125d7c8ff2a9d2868491f054beef2be71a931",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/68eca95cabed8daeea86a1d0ed4e4f655e140416",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/bf4da237617b428fada38b7cf0725f37ff7a6fb6",
+              "width": 64
+            }
+          ],
+          "name": "Dancing Queen",
+          "type": "album",
+          "uri": "spotify:album:3SET4xmpjvV4aGcoz9Ruc4"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/56ecKpjIKKUYO0sPAE7JtV"
+            },
+            "href": "https://api.spotify.com/v1/artists/56ecKpjIKKUYO0sPAE7JtV",
+            "id": "56ecKpjIKKUYO0sPAE7JtV",
+            "name": "Eldissa",
+            "type": "artist",
+            "uri": "spotify:artist:56ecKpjIKKUYO0sPAE7JtV"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 185333,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "HKG291600891"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0NPqaYbYmT6RVXUoeuVj1t"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0NPqaYbYmT6RVXUoeuVj1t",
+        "id": "0NPqaYbYmT6RVXUoeuVj1t",
+        "name": "Dancing Queen",
+        "popularity": 39,
+        "preview_url": "https://p.scdn.co/mp3-preview/4844b078f3b5744111746f3477ec0f922e41d909?cid=7c3225dc6b6d45a0be06ab9eb0db94a1",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0NPqaYbYmT6RVXUoeuVj1t"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0kV0e99xlTJcLKSu8KrLyp"
+              },
+              "href": "https://api.spotify.com/v1/artists/0kV0e99xlTJcLKSu8KrLyp",
+              "id": "0kV0e99xlTJcLKSu8KrLyp",
+              "name": "Benny Andersson",
+              "type": "artist",
+              "uri": "spotify:artist:0kV0e99xlTJcLKSu8KrLyp"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2lVPicgpjjlbROFIzwGm8V"
+              },
+              "href": "https://api.spotify.com/v1/artists/2lVPicgpjjlbROFIzwGm8V",
+              "id": "2lVPicgpjjlbROFIzwGm8V",
+              "name": "Björn Ulvaeus",
+              "type": "artist",
+              "uri": "spotify:artist:2lVPicgpjjlbROFIzwGm8V"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+              "id": "0LyfQWJT6nXafLPZqxe9Of",
+              "name": "Various Artists",
+              "type": "artist",
+              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+          ],
+          "available_markets": [
+            "CA",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6LFLGHU6Rw2sAMrjax6f5t"
+          },
+          "href": "https://api.spotify.com/v1/albums/6LFLGHU6Rw2sAMrjax6f5t",
+          "id": "6LFLGHU6Rw2sAMrjax6f5t",
+          "images": [
+            {
+              "height": 635,
+              "url": "https://i.scdn.co/image/fd47f3b0a535f131e0ef25baa15d8076daebd3be",
+              "width": 640
+            },
+            {
+              "height": 297,
+              "url": "https://i.scdn.co/image/7c410291dd463ff6b31f022d5f794988ab2218d1",
+              "width": 300
+            },
+            {
+              "height": 63,
+              "url": "https://i.scdn.co/image/f0108c225cbc12a5cd4760a97db4fa80938f7112",
+              "width": 64
+            }
+          ],
+          "name": "Mamma Mia",
+          "type": "album",
+          "uri": "spotify:album:6LFLGHU6Rw2sAMrjax6f5t"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0kV0e99xlTJcLKSu8KrLyp"
+            },
+            "href": "https://api.spotify.com/v1/artists/0kV0e99xlTJcLKSu8KrLyp",
+            "id": "0kV0e99xlTJcLKSu8KrLyp",
+            "name": "Benny Andersson",
+            "type": "artist",
+            "uri": "spotify:artist:0kV0e99xlTJcLKSu8KrLyp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CDtTrMhug34Bq6GQHIfhe"
+            },
+            "href": "https://api.spotify.com/v1/artists/1CDtTrMhug34Bq6GQHIfhe",
+            "id": "1CDtTrMhug34Bq6GQHIfhe",
+            "name": "Stig Anderson",
+            "type": "artist",
+            "uri": "spotify:artist:1CDtTrMhug34Bq6GQHIfhe"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2lVPicgpjjlbROFIzwGm8V"
+            },
+            "href": "https://api.spotify.com/v1/artists/2lVPicgpjjlbROFIzwGm8V",
+            "id": "2lVPicgpjjlbROFIzwGm8V",
+            "name": "Björn Ulvaeus",
+            "type": "artist",
+            "uri": "spotify:artist:2lVPicgpjjlbROFIzwGm8V"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Bc5dlMRPkNKNqu22Lh2z1"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Bc5dlMRPkNKNqu22Lh2z1",
+            "id": "5Bc5dlMRPkNKNqu22Lh2z1",
+            "name": "Jenny Galloway",
+            "type": "artist",
+            "uri": "spotify:artist:5Bc5dlMRPkNKNqu22Lh2z1"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mk0x5MnI1Du1of0Xbbvb5"
+            },
+            "href": "https://api.spotify.com/v1/artists/1mk0x5MnI1Du1of0Xbbvb5",
+            "id": "1mk0x5MnI1Du1of0Xbbvb5",
+            "name": "Louise Plowright",
+            "type": "artist",
+            "uri": "spotify:artist:1mk0x5MnI1Du1of0Xbbvb5"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/167dt4dzL6p1HOtIlS52ap"
+            },
+            "href": "https://api.spotify.com/v1/artists/167dt4dzL6p1HOtIlS52ap",
+            "id": "167dt4dzL6p1HOtIlS52ap",
+            "name": "Siobhan McCarthy",
+            "type": "artist",
+            "uri": "spotify:artist:167dt4dzL6p1HOtIlS52ap"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 224066,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAKW9900312"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3IyYpS5T8qkHKaYKCExlay"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3IyYpS5T8qkHKaYKCExlay",
+        "id": "3IyYpS5T8qkHKaYKCExlay",
+        "name": "Dancing Queen - 1999 / Musical \"Mamma Mia\"",
+        "popularity": 26,
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:3IyYpS5T8qkHKaYKCExlay"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
+              "type": "artist",
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+            }
+          ],
+          "available_markets": [
+            "CA",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6xB2wi9d4JhnhDpspbqFHe"
+          },
+          "href": "https://api.spotify.com/v1/albums/6xB2wi9d4JhnhDpspbqFHe",
+          "id": "6xB2wi9d4JhnhDpspbqFHe",
+          "images": [
+            {
+              "height": 636,
+              "url": "https://i.scdn.co/image/f7154ee83299274e530ca42efd5a4ba662c752cb",
+              "width": 640
+            },
+            {
+              "height": 298,
+              "url": "https://i.scdn.co/image/f640e14cae4605a90003622908eb06eba0c1e705",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/3afc6624c789e7fd2c23c8832e14d2a71ccd1cf2",
+              "width": 64
+            }
+          ],
+          "name": "20th Century Masters: The Millennium Collection: Best Of Abba",
+          "type": "album",
+          "uri": "spotify:album:6xB2wi9d4JhnhDpspbqFHe"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "type": "artist",
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 232640,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEAYD7601020"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6A3uXzP2vp9UgFjq0qGaQw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6A3uXzP2vp9UgFjq0qGaQw",
+        "id": "6A3uXzP2vp9UgFjq0qGaQw",
+        "name": "Dancing Queen",
+        "popularity": 23,
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:6A3uXzP2vp9UgFjq0qGaQw"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ODX6aegsZkBmBeMA5qqwi"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ODX6aegsZkBmBeMA5qqwi",
+              "id": "0ODX6aegsZkBmBeMA5qqwi",
+              "name": "Crayon Pop",
+              "type": "artist",
+              "uri": "spotify:artist:0ODX6aegsZkBmBeMA5qqwi"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4uBPALYAnJpZfbhta8LAjn"
+          },
+          "href": "https://api.spotify.com/v1/albums/4uBPALYAnJpZfbhta8LAjn",
+          "id": "4uBPALYAnJpZfbhta8LAjn",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/9a8935fecfa2e70835a934248db6c8c5b3613f8e",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/74296933c2fe302b19dd30298bae7336bc6d9a8d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/e870891d6a1251988be3b6220d193693ee8231e2",
+              "width": 64
+            }
+          ],
+          "name": "Evolution Pop",
+          "type": "album",
+          "uri": "spotify:album:4uBPALYAnJpZfbhta8LAjn"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ODX6aegsZkBmBeMA5qqwi"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ODX6aegsZkBmBeMA5qqwi",
+            "id": "0ODX6aegsZkBmBeMA5qqwi",
+            "name": "Crayon Pop",
+            "type": "artist",
+            "uri": "spotify:artist:0ODX6aegsZkBmBeMA5qqwi"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 2,
+        "duration_ms": 160312,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "KRA491200498"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1clOB4jjcYWAVqF3KknY2b"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1clOB4jjcYWAVqF3KknY2b",
+        "id": "1clOB4jjcYWAVqF3KknY2b",
+        "name": "Dancing Queen",
+        "popularity": 28,
+        "preview_url": "https://p.scdn.co/mp3-preview/bca56fd18303971f3605256aabef327955b157f6?cid=7c3225dc6b6d45a0be06ab9eb0db94a1",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1clOB4jjcYWAVqF3KknY2b"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1qLwXsUtyW2Ba2Iotg4gE3"
+              },
+              "href": "https://api.spotify.com/v1/artists/1qLwXsUtyW2Ba2Iotg4gE3",
+              "id": "1qLwXsUtyW2Ba2Iotg4gE3",
+              "name": "PelleK",
+              "type": "artist",
+              "uri": "spotify:artist:1qLwXsUtyW2Ba2Iotg4gE3"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1l08xAgV5CetbahlDHOE5g"
+          },
+          "href": "https://api.spotify.com/v1/albums/1l08xAgV5CetbahlDHOE5g",
+          "id": "1l08xAgV5CetbahlDHOE5g",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/9451ee1249c8bf125a26af677701cf61cdf026cd",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/b9c7bae462cad70dd9e07bd2be29dd57a3b26110",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/a4905a478ca87327472472c172d085a2a6107981",
+              "width": 64
+            }
+          ],
+          "name": "Covers Vol. 4",
+          "type": "album",
+          "uri": "spotify:album:1l08xAgV5CetbahlDHOE5g"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1qLwXsUtyW2Ba2Iotg4gE3"
+            },
+            "href": "https://api.spotify.com/v1/artists/1qLwXsUtyW2Ba2Iotg4gE3",
+            "id": "1qLwXsUtyW2Ba2Iotg4gE3",
+            "name": "PelleK",
+            "type": "artist",
+            "uri": "spotify:artist:1qLwXsUtyW2Ba2Iotg4gE3"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 203128,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USE830914745"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6VUnOV3MLCD43LeHfd8xZz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6VUnOV3MLCD43LeHfd8xZz",
+        "id": "6VUnOV3MLCD43LeHfd8xZz",
+        "name": "Dancing Queen",
+        "popularity": 23,
+        "preview_url": "https://p.scdn.co/mp3-preview/c515e9277c7b339d568b4c05989b33ba03c052eb?cid=7c3225dc6b6d45a0be06ab9eb0db94a1",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:6VUnOV3MLCD43LeHfd8xZz"
+      },
+      {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
+              "type": "artist",
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+            }
+          ],
+          "available_markets": [
+            "CA",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/761NxHVF52s4RNOBtohGAV"
+          },
+          "href": "https://api.spotify.com/v1/albums/761NxHVF52s4RNOBtohGAV",
+          "id": "761NxHVF52s4RNOBtohGAV",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/350d5f0e56bf3afa76bc0202b8e064d912614ae6",
+              "width": 353
+            },
+            {
+              "height": 299,
+              "url": "https://i.scdn.co/image/128c4d2d084abba733f43151f96ee15933ec6bff",
+              "width": 165
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/24408a9c1d2888ed801abe0edfb58ad92002f8cf",
+              "width": 35
+            }
+          ],
+          "name": "Chronicles",
+          "type": "album",
+          "uri": "spotify:album:761NxHVF52s4RNOBtohGAV"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+            "id": "0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "type": "artist",
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 2,
+        "duration_ms": 230693,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEAYD7601020"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3P5tpGMA6LHTTTMqN5b8P3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3P5tpGMA6LHTTTMqN5b8P3",
+        "id": "3P5tpGMA6LHTTTMqN5b8P3",
+        "name": "Dancing Queen",
+        "popularity": 19,
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3P5tpGMA6LHTTTMqN5b8P3"
+      }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/search?query=dancing+queen&type=track&offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 2751
+  }
+}
+artist: ABBA
