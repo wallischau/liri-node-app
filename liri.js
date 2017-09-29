@@ -1,3 +1,16 @@
+/* liri.js                                               */
+/* Author: Wallis Chau                                   */
+/* Date: 9-22-2017                                       */
+/* Description: this is node.JS to do several activities */
+/*             based on argument or user prompts         */
+/* Argument or input prompt:                             */
+/* 		my-tweet:          show up to 20 last tweets     */
+/*		spotify-this-song: display song info             */
+/*		movie-this: 	   display movie info            */
+/*      do-what-it-says:   run the request from random.txt */
+/* Requirement: inquirer, node-spotify-api, request,     */
+/*               twitter packages, keys.js, random.txt   */
+
 var key = require('./keys.js');
 
 //twitter keys
@@ -47,8 +60,59 @@ function selectAction(act, arg) {
 		}
 		break;
 	default:
-	}
+		//do inquiry to get arg
+		var inq = require('inquirer');
+		inquireInfo();
 }
+
+function inquireInfo() {
+		inq.prompt([
+			{
+
+			type: 'list',
+			message: 'select activity:',
+			name: 'activity',
+			choices: ['my-tweet', 'spotify-this-song', 'movie-this', 'do-what-it-says']
+			}
+		])
+		.then(function(inqResp) {
+			console.log(inqResp.activity);
+			switch (inqResp.activity) {
+				case 'spotify-this-song':
+					inq.prompt([
+					{
+						type: 'input',
+						message: 'enter song name:',
+						name: 'songName',
+					}
+					]).then(function(resp) {
+						callSpotify(resp.songName);
+					});
+					break;
+				case 'movie-this':
+					inq.prompt([
+					{
+						type: 'input',
+						message: 'enter movie name:',
+						name: 'movieName',
+					}
+					]).then(function(resp) {
+						callMovieThis(resp.movieName);
+					});
+					break;
+				case 'do-what-it-says':
+					break;
+				case 'my-tweet':
+					callTwit();
+					break;
+
+				default:
+			}//switch
+		});
+	}//inquireInfo
+
+}//selectAction
+
 
 function getRestArgument(defaultName) {
 		var itemName = '';
@@ -108,10 +172,10 @@ function callSpotify(songName) {
 }//callspotify
 
 function callMovieThis(movieName) {
-	// console.log(movieName);	
+	 console.log(movieName);	
 	var req = require('request');
 	var queryUrl = 'http://www.omdbapi.com/?t=' + movieName + '&apikey=40e9cece';
-	// console.log(queryUrl);
+	console.log(queryUrl);
 	req(queryUrl, function(err, response, body) {
 		if (!err && response.statusCode === 200) {
 			// console.log(JSON.parse(body));
