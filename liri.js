@@ -28,8 +28,14 @@ var sp_client_id = key.spotifyKeys['client_id'];
 var sp_client_secret = key.spotifyKeys['client_secret'];
 
 var act = process.argv[2];
+
+//perform activity
 selectAction(act, null);
 
+/* selectAction                                                     */
+/* Description: perform given activity with optional given argument */
+/* Parameter: act - activity                                        */
+/*            arg - names, use default if no arg                    */
 function selectAction(act, arg) {
 	switch (act) {
 	case 'my-tweet':
@@ -40,7 +46,7 @@ function selectAction(act, arg) {
 	case 'spotify-this-song':
 		var songName;
 		if (!arg) {
-			songName = getRestArgument('The Sign');
+			songName = getRestArgument('The Sign'); /* default */
 		}
 		else {
 			songName = arg;
@@ -50,7 +56,7 @@ function selectAction(act, arg) {
 	case 'movie-this':
 		var movieName;
 		if (!arg) {
-			movieName = getRestArgument('Mr. Nobody');
+			movieName = getRestArgument('Mr. Nobody'); /* default */
 		}
 		callMovieThis(movieName);
 		break;
@@ -60,15 +66,18 @@ function selectAction(act, arg) {
 		}
 		break;
 	default:
-		//do inquiry to get arg
+		//no activity specified, do inquiry to get activity 
 		var inq = require('inquirer');
 		inquireInfo();
 }
 
+/* inquireInfo                                               */
+/* Description: prompt user for activity, and name as needed */
+/*              call appropriate activity service            */
+/* require:     inquirer                                     */
 function inquireInfo() {
 		inq.prompt([
 			{
-
 			type: 'list',
 			message: 'select activity:',
 			name: 'activity',
@@ -79,6 +88,7 @@ function inquireInfo() {
 			console.log(inqResp.activity);
 			switch (inqResp.activity) {
 				case 'spotify-this-song':
+					//prompt for song name
 					inq.prompt([
 					{
 						type: 'input',
@@ -90,6 +100,7 @@ function inquireInfo() {
 					});
 					break;
 				case 'movie-this':
+					//prompt for movie name	
 					inq.prompt([
 					{
 						type: 'input',
@@ -101,19 +112,20 @@ function inquireInfo() {
 					});
 					break;
 				case 'do-what-it-says':
+					callDoWhat();
 					break;
 				case 'my-tweet':
 					callTwit();
 					break;
-
 				default:
 			}//switch
 		});
 	}//inquireInfo
-
 }//selectAction
 
-
+/* getRestArgument                                            */
+/* Description: if activity needs more argument, collect them */
+/* return: string of collected argument                       */
 function getRestArgument(defaultName) {
 		var itemName = '';
 		if (!process.argv[3]) {
@@ -128,11 +140,17 @@ function getRestArgument(defaultName) {
 		return itemName;
 }
 
+const MAX_TWEETS = 20;
+
+/* callTwit                                               */
+/* Description: call Twitter API and display last tweets  */
+/* Require:   twitter package                             */
 function callTwit() {
 	var Twitter = require('twitter');
 	var client = new Twitter({
 		consumer_key: tw_consumer_key,
-		consumer_secret: tw_consumer_secret,
+		consumer_secret: tw_consumer_secret,	
+
 		access_token_key: tw_access_key,
 		access_token_secret: tw_access_secret
 	});
@@ -141,7 +159,7 @@ function callTwit() {
 	client.get('statuses/user_timeline', params, function(err, tweets, response){
 		if(!err) {
 			//console.log(JSON.stringify(tweets, null, 2));
-			for (var i=0; i<((tweets.length<20)?tweets.length:20); i++) {
+			for (var i=0; i<((tweets.length<MAX_TWEETS)?tweets.length:20); i++) {
 				console.log('Created: ' + tweets[i]['created_at']);
 				console.log(tweets[i]['text']);
 				console.log("==================");
@@ -150,6 +168,9 @@ function callTwit() {
 	});
 }//callTwit
 
+/* callSpotify                                            */
+/* Description: call spotify API and display song info    */
+/* require: node-spotify-api package                      */
 function callSpotify(songName) {
 	console.log("Song name: " + songName);
 	var Spotify = require('node-spotify-api');
@@ -168,9 +189,11 @@ function callSpotify(songName) {
 		console.log('preview: ' + data.tracks.items[0].album.artists[0].external_urls.spotify);
 		console.log('album: ' + data.tracks.items[0].album.name);
 		});
-	
 }//callspotify
 
+/* callMovieThis                                            */
+/* Description: call omdb api and display movie info        */
+/* require:  request                                        */
 function callMovieThis(movieName) {
 	 console.log(movieName);	
 	var req = require('request');
@@ -189,17 +212,16 @@ function callMovieThis(movieName) {
 			console.log('Actors: ' + JSON.parse(body).Actors);
 		}
 	});	
-
 }//callMovieThis
 
+/* callDoWhat                                                   */
+/* Description: read file random.txt and perform activity in it */
 function callDoWhat() {
 	var fs = require('fs');
 	fs.readFile('random.txt', 'utf8', function(err, data) {
 		// console.log(data);
 		var lines = data.split('\n');
 		linePart = lines[0].split(',');
-		selectAction(linePart[0]);
 		selectAction(linePart[0], linePart[1]);
 	});
-	
 }//callDoWhat
